@@ -1,5 +1,5 @@
 # Ignore credentials file
-credentials.json
+credentails.json
 
 # Python
 __pycache__/
